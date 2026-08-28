@@ -1,0 +1,15 @@
+Gen=mini API used in Python project
+it is like when we talk to our friends at anytime 
+
+Steps to setup API:
+1) Search on google --> Google gemini API 
+2) Open website and select Get API Key 
+3) click on create API key and name it as Python don't select any options 
+4) Copy the API key 
+5) install this in terminal of vscode --> pip install python-dotenv
+6) Go to VsCode and create a file in that project folder .env
+7) Create a new file .gitignore
+8) Go to google install --> pip install google-generativeai
+	(it is the Python package of google that is used to talk with API)
+9) install pip install genai
+10) 
